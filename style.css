@@ -414,6 +414,7 @@ button:active {
     .game-zone {
         right: 12px;
         bottom: 12px;
+        border-radius: 20px;
         padding: 11px 14px;
     }
 }
